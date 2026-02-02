@@ -1,18 +1,106 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>AI & Data Science projects, focusing on real-world problem solving<br><br>👯 I’m looking to collaborate on:<br>AI, ML, Data Analytics, and open-source tech projects<br><br>🤝 I’m looking for help with:<br>Advanced machine learning, MLOps, and scalable AI systems<br><br>🌱 I’m currently learning:<br>Artificial Intelligence, Data Science, Python, and modern AI tools<br><br>💬 Ask me about:<br>AI, Data Science, Python, ML basics, and project building<br><br>⚡ Fun fact:<br>I enjoy turning complex data into simple, meaningful insights 📊
+# 💫 Hi 👋, I'm **Shreyas Deobhankar**  
+**AI Developer | Tech Innovator | Future-Focused Engineer 🚀**
 
+📫 Email Me 👉 ✉️ **shreyasdeobhankar1909@gmail.com**  
+💼 GitHub 👉 **Shreyas1909Tech**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shreyas_1909/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyas-deobhankar-291bb9251) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyasdeobhankar1909@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shreyas1909Tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shreyas1909Tech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas1909Tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer+🤖;Agentic+AI+Explorer+🧠;Cloud+Learner+☁️;Building+the+Future+with+Code+🚀" alt="Typing Animation"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shreyas1909Tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🔭 **Currently Working On:** DocGPT — AI-powered smart document interaction platform  
+- 🌱 **Currently Learning:** AWS, SAP, Agentic AI  
+- 👯 **Open to Collaborate On:** AI/ML Projects, SaaS Tools, Smart Automation Systems  
+- 🤔 **Looking for Help With:** Scaling AI systems & cloud deployment  
+- 💬 **Ask Me About:** AI, LLMs, Cloud, Full Stack Development  
+- ⚡ **Fun Fact:** I don’t just use AI — I teach it to think 🧠⚡  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-deobhankar-291bb9251)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasdeobhankar1909@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🌐 Web & Frameworks
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ☁️ Cloud & Databases
+![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI & Tools
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Shreyas1909Tech&theme=neon&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Shreyas1909Tech&theme=neon&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas1909Tech&theme=neon&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Shreyas1909Tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## ✍️ Dev Quote
+
+> **"The future belongs to those who build it — one line of code at a time."** 🚀
+
+---
+
+## 🔝 Top Contributions
+
+![](https://github-contributor-stats.vercel.app/api?username=Shreyas1909Tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 👀 Profile Visitors
+
+[![](https://visitcount.itsvg.in/api?id=Shreyas1909Tech&icon=2&color=12)](https://visitcount.itsvg.in)
+
+---
+
+## 🤝 Let’s Build Something Powerful
+
+<div align="center">
+  <a href="mailto:shreyasdeobhankar1909@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shreyas-deobhankar-291bb9251">
+    <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
