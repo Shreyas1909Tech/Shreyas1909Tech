@@ -142,40 +142,6 @@ Real-World AI Products 🚀
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Shreyas1909Tech&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shreyas1909Tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=Shreyas1909Tech&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas1909Tech&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=ffffff&area=true&cache_seconds=1800" alt="Contribution Activity Graph" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shreyas1909Tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-### 🚀 Building • Learning • Contributing • Growing
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
