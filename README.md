@@ -8,7 +8,7 @@
 
 ### 🧠 **Building Intelligent Systems. Exploring Cloud. Creating the Future.**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer+%F0%9F%A4%96;Agentic+AI+Explorer+%F0%9F%91%8D;Cloud+%26+Data+Enthusiast+%F0%9F%9B%A0%EF%B8%8F;Building+Real-World+AI+Products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer+%F0%9F%A4%96;Agentic+AI+Explorer+%F0%9F%A4%96;Cloud+%26+Data+Enthusiast+%E2%9C%85;Building+Smart+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -148,25 +148,19 @@ Real-World AI Products 🚀
 
 <img src="https://komarev.com/ghpvc/?username=Shreyas1909Tech&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
-</div>
+<br><br>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyas1909Tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shreyas1909Tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=Shreyas1909Tech&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="GitHub Streak" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas1909Tech&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+<br><br>
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas1909Tech&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=ffffff&area=true&cache_seconds=1800" alt="Contribution Activity Graph" />
 
-<div align="center">
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas1909Tech&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=ffffff&area=true&hide_title=true" alt="Contribution Activity Graph" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shreyas1909Tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shreyas1909Tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
